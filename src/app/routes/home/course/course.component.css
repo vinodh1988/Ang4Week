@@ -1,0 +1,33 @@
+.course{
+    width: 200px;
+    height: 250px;
+    background-color: rgb(238, 224, 224);
+    box-shadow: 3px 3px 3px lightgrey;
+    float: left;
+    margin: 10px;
+}
+
+.h3{
+    color: rgb(39, 6, 70);
+    text-align: center;
+}
+.h2{
+    color: rgb(199, 195, 195);
+}
+
+.price{
+    padding: 30px;
+    color: rgb(90, 0, 0);
+    margin-top: 10px;
+}
+
+.coursepic{
+    width:100%;
+    height: 60px;
+}
+
+.coursepic img{
+    width: 100%;
+    height: 100%;
+}
+
